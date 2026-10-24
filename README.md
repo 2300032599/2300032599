@@ -4,7 +4,7 @@
 
 **Computer Science Undergraduate · Software Engineering · Class of 2027**
 
-Building APIs, full-stack applications, and tools for understanding system reliability.
+cloud-oriented development, and tools for understanding system reliability.
 
 **Seeking software engineering internships and full-time opportunities.**
 
@@ -18,7 +18,7 @@ Building APIs, full-stack applications, and tools for understanding system relia
 
 I'm a Computer Science undergraduate at **KL University**, graduating in **2027**. I work with Java, Spring Boot, React, and SQL to build applications from the API and database to the user interface. I'm interested in software engineering roles where I can solve practical problems, contribute to a team, and keep developing my engineering skills.
 
-- **Current focus:** software engineering fundamentals, full-stack development, and reliable systems.
+- **Current focus:** software engineering fundamentals, cloud-oriented development, and reliable systems.
 - **Building with:** Java, Spring Boot, React, PostgreSQL, MySQL, and Docker.
 - **Deepening my knowledge of:** AWS, Kubernetes, Terraform, CI/CD, and Linux.
 
@@ -65,6 +65,6 @@ A React and Spring Boot application with file-sharing, group, and messaging work
 
 ### Let's connect
 
-I'm seeking **software engineering internships and full-time roles**, with interests spanning backend development, full-stack applications, and cloud technologies.
+I'm seeking **software engineering internships and full-time roles**, with interests spanning java development, AWS, and cloud technologies.
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/vanukuru-siva-ganesh-0585ab351/) or at [sivaganesh19190@gmail.com](mailto:sivaganesh19190@gmail.com).
