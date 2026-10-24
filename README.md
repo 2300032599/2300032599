@@ -4,7 +4,7 @@
 
 **Computer Science Undergraduate · Software Engineering · Class of 2027**
 
-cloud-oriented development, and tools for understanding system reliability.
+Java, AWS, cloud-oriented development, and tools for understanding system reliability.
 
 **Seeking software engineering internships and full-time opportunities.**
 
